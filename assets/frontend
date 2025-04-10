@@ -1,0 +1,22 @@
+├── css/
+│   ├── style.css          # Main stylesheet
+│   ├── components/        # Component-specific styles
+│   │   ├── forms.css
+│   │   ├── tables.css
+│   │   ├── buttons.css
+│   │   └── alerts.css
+│   └── themes/           # Different color themes if needed
+│       └── dark.css
+├── js/
+│   ├── main.js           # Main JavaScript file
+│   ├── utils/           # Utility functions
+│   │   ├── validation.js
+│   │   └── alerts.js
+│   └── components/      # Component-specific scripts
+│       ├── tables.js
+│       └── forms.js
+├── img/                 # Images and icons
+│   └── icons/
+└── vendor/             # Third-party libraries
+    ├── bootstrap/
+    └── jquery/ 
